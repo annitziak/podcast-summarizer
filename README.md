@@ -4,28 +4,36 @@ A tool to fetch podcast episodes (from RSS or direct MP3), transcribe them with 
 
 ### ✨ Features
 Uses RSS feed URLs
+
 Resolves metadata (title, show, description, duration)
+
 Downloads and validates audio (MP3, M4A, etc.)
 
 ### 📝 Transcription
 
 WhisperX automatic speech recognition (ASR)
+
 Accurate timestamped segments
 
 ### 📚 Summarization
 
 Chunk long transcripts into manageable pieces
+
 Summarize per chunk and merge into a full summary
 
 Extract:
 
 ✅ Key takeaways
+
 ✅ Chapter breakdowns (with timestamps)
+
 ✅ Optional topics and sentiment
+
 
 ### 🎬 Highlights
 
 Smart clip generation (30–60s) by scoring transcript segments (energy + novelty)
+
 Export audiograms or short shareable highlights
 
 ### 💾 Storage
