@@ -33,7 +33,7 @@ Personal end-to-end tool for podcast summarization. The tool can be used to **in
 ---
 
 ## 📂 Project Structure
-
+```markdown
 backend/
 ├── app/
 │ ├── db/
@@ -49,8 +49,9 @@ backend/
 │ └── summarize_service.py # LLM summarization logic
 │ └── main.py # FastAPI entrypoint
 └── podcast.db # SQLite database
-frontend/
+frontend/what co
 └── frontend.py # Streamlit UI
+```
 
 ## ⚙️ Installation & Setup
 
